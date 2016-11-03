@@ -1,12 +1,12 @@
 [submodule "roles/ansible-dcos-common"]
 	path = roles/ansible-dcos-common
-	url = https://github.com/OldCrowEW/ansible-dcos-common
+	url = https://github.com/vicenteg/ansible-dcos-common.git
 [submodule "roles/ansible-dcos-bootstrap-node"]
 	path = roles/ansible-dcos-bootstrap-node
-	url = git@github.com:OldCrowEW/ansible-dcos-bootstrap-node.git
+	url = https://github.com/vicenteg/ansible-dcos-bootstrap-node.git
 [submodule "roles/ansible-dcos-bootstrap-master"]
 	path = roles/ansible-dcos-bootstrap-master
 	url = https://github.com/OldCrowEW/ansible-dcos-bootstrap-master
 [submodule "roles/ansible-dcos-bootstrap-agent"]
 	path = roles/ansible-dcos-bootstrap-agent
-	url = https://github.com/OldCrowEW/ansible-dcos-bootstrap-agent
+	url = https://github.com/vicenteg/ansible-dcos-bootstrap-agent.git
